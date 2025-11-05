@@ -1,0 +1,18 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 1,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "メール",
+      "se_name": "",
+      "textbox_name": "fd_mail",
+      "delay_ms": 500,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 24,
+      "x_offset": 136,
+      "y_offset": 120
+    }
+  ]
+}

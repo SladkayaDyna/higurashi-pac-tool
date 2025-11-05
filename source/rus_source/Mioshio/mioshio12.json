@@ -1,0 +1,28 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 2,
+  "window_width": 416,
+  "window_height": 368,
+  "frames": [
+    {
+      "sprite_name": "ms12_00",
+      "se_name": "",
+      "textbox_name": "fd_kasai",
+      "delay_ms": 1000,
+      "x_offset_textbox": 64,
+      "y_offset_textbox": 16,
+      "x_offset": 96,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "ms12_00",
+      "se_name": "",
+      "textbox_name": "fd_kasai",
+      "delay_ms": 9000,
+      "x_offset_textbox": 64,
+      "y_offset_textbox": 16,
+      "x_offset": 96,
+      "y_offset": 112
+    }
+  ]
+}

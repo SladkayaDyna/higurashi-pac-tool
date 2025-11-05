@@ -1,0 +1,49 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 4,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "胸１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 112,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "胸２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 150,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 112,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "胸３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 112,
+      "y_offset": 96
+    },
+    {
+      "sprite_name": "胸４",
+      "se_name": "Satoko_22",
+      "textbox_name": "fd_sawarisugi",
+      "delay_ms": 10000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 112,
+      "y_offset": 96
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 0
+}

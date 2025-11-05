@@ -1,0 +1,28 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 2,
+  "window_width": 416,
+  "window_height": 368,
+  "frames": [
+    {
+      "sprite_name": "ms27_00",
+      "se_name": "",
+      "textbox_name": "fd_mail_00",
+      "delay_ms": 5000,
+      "x_offset_textbox": 96,
+      "y_offset_textbox": 8,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms27_00",
+      "se_name": "",
+      "textbox_name": "fd_mail_02",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 8,
+      "x_offset": 144,
+      "y_offset": 104
+    }
+  ]
+}

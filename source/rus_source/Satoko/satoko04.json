@@ -1,0 +1,89 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 8,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "パフェ３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "パフェ５",
+      "se_name": "Satoko_24",
+      "textbox_name": "",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 128,
+      "y_offset": 112
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

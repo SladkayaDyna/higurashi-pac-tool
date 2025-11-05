@@ -1,0 +1,19 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 1,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "頭撫で",
+      "se_name": "Satoko_18",
+      "textbox_name": "fd_nade",
+      "delay_ms": 500,
+      "x_offset_textbox": 8,
+      "y_offset_textbox": 24,
+      "x_offset": 160,
+      "y_offset": 120
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 0
+}

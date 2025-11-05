@@ -1,0 +1,68 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 6,
+  "window_width": 416,
+  "window_height": 368,
+  "frames": [
+    {
+      "sprite_name": "ms03_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms03_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms03_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms03_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 100,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms03_04",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    },
+    {
+      "sprite_name": "ms03_05",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 104
+    }
+  ]
+}

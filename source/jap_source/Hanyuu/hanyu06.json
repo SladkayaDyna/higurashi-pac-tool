@@ -1,0 +1,29 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 2,
+  "window_width": 504,
+  "window_height": 368,
+  "frames": [
+    {
+      "sprite_name": "ha04_00",
+      "se_name": "Hanyu_23",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 0,
+      "y_offset": 88
+    },
+    {
+      "sprite_name": "ha04_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 0,
+      "y_offset": 88
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

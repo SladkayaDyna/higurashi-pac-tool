@@ -1,0 +1,68 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 6,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "買い物１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    },
+    {
+      "sprite_name": "買い物２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    },
+    {
+      "sprite_name": "買い物３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    },
+    {
+      "sprite_name": "買い物１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 5000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    },
+    {
+      "sprite_name": "買い物４",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 2000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    },
+    {
+      "sprite_name": "買い物５",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 128
+    }
+  ]
+}

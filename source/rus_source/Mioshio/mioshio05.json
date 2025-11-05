@@ -1,0 +1,209 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 20,
+  "window_width": 416,
+  "window_height": 368,
+  "frames": [
+    {
+      "sprite_name": "ms05_00",
+      "se_name": "Mion&Sion_Mix2",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_00",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_01",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_02",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    },
+    {
+      "sprite_name": "ms05_03",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 200,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 104,
+      "y_offset": 192
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 1
+}

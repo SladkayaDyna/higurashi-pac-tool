@@ -1,0 +1,78 @@
+{
+  "maybe_ttp_type": 2,
+  "frame_count": 7,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "トラップ１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ１",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 500,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ２",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 1000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    },
+    {
+      "sprite_name": "トラップ３",
+      "se_name": "",
+      "textbox_name": "",
+      "delay_ms": 3000,
+      "x_offset_textbox": 0,
+      "y_offset_textbox": 0,
+      "x_offset": 144,
+      "y_offset": 112
+    }
+  ]
+}

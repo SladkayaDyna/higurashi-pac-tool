@@ -1,0 +1,29 @@
+{
+  "maybe_ttp_type": 3,
+  "frame_count": 2,
+  "window_width": 384,
+  "window_height": 400,
+  "frames": [
+    {
+      "sprite_name": "時間１",
+      "se_name": "Satoko_11",
+      "textbox_name": "fd_jikan_8",
+      "delay_ms": 200,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 24,
+      "x_offset": 88,
+      "y_offset": 120
+    },
+    {
+      "sprite_name": "時間２",
+      "se_name": "",
+      "textbox_name": "fd_jikan_8",
+      "delay_ms": 200,
+      "x_offset_textbox": 24,
+      "y_offset_textbox": 24,
+      "x_offset": 88,
+      "y_offset": 120
+    }
+  ],
+  "onetime_wakeup_dont_play_sound": 0
+}
