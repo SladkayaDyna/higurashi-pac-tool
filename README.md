@@ -1,4 +1,4 @@
-# Higurashi-pac-tool
+# higurashi-pac-tool
 
 A utility for working with `.pac` archives from ひぐらしのなく頃に礼 デスクトップアクセサリー uploaded by [digitalromance78](https://digitalromance.wordpress.com/)
 
